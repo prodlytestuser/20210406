@@ -1,0 +1,4 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Field__c","SBQQ__FilterValue__c","SBQQ__Operator__c","SBQQ__TargetObject__c"
+4a888bc2-a063-424d-9a24-412860e75df0,USD,Customer Quote,SBQQ__Type__c,Customer Quote,not equals,Quote
+4b3a7f10-e69b-442d-90b5-231620087e91,USD,test,"#N/A","#N/A","#N/A","#N/A"
+a0485110-1e90-4b2c-895e-75ba8c79cc4f,USD,Customer Quote,SBQQ__Type__c,Customer Quote,not equals,Quote
